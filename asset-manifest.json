@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/unsupervised-learning/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/unsupervised-learning/static/js/main.34cd07fc.chunk.js",
+    "main.js.map": "/unsupervised-learning/static/js/main.34cd07fc.chunk.js.map",
+    "runtime-main.js": "/unsupervised-learning/static/js/runtime-main.cc2f9306.js",
+    "runtime-main.js.map": "/unsupervised-learning/static/js/runtime-main.cc2f9306.js.map",
+    "static/js/2.36b2a8c9.chunk.js": "/unsupervised-learning/static/js/2.36b2a8c9.chunk.js",
+    "static/js/2.36b2a8c9.chunk.js.map": "/unsupervised-learning/static/js/2.36b2a8c9.chunk.js.map",
+    "index.html": "/unsupervised-learning/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/unsupervised-learning/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.36b2a8c9.chunk.js.LICENSE.txt": "/unsupervised-learning/static/js/2.36b2a8c9.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/unsupervised-learning/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc2f9306.js",
+    "static/js/2.36b2a8c9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.34cd07fc.chunk.js"
+  ]
+}
